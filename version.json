@@ -1,11 +1,11 @@
-﻿{
-    "version":  "2.1.4",
-    "build":  1,
-    "releaseDate":  "2026-10-01",
-    "changelog":  "Digit\u0027Pilot v2.1.4 (Build 1) : Nouveau moteur de mise a jour au chargement (Splash Screen), securisation maximale et prechargement integral.",
-    "downloadUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-    "sha256":  "01783DED3628D6F5C78590C8AD4BDD5D0D3E5632B4E1C3766C9B65DE618A474C",
-    "installerUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_2.1_Installateur.zip",
-    "installerSha256":  "C105714C7E453C0FAD2243F106EC5582C5D0E12AA539268EBA484E701C6A3A69",
-    "mandatory":  false
+{
+  "version": "2.1.4",
+  "build": 2,
+  "releaseDate": "2026-10-01",
+  "changelog": "Digit'Pilot v2.1.4 : Nouveau moteur de mise a jour au chargement (Splash Screen), securisation maximale du client et prechargement integral.",
+  "downloadUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
+  "sha256": "01783DED3628D6F5C78590C8AD4BDD5D0D3E5632B4E1C3766C9B65DE618A474C",
+  "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_2.1_Installateur.zip",
+  "installerSha256": "C105714C7E453C0FAD2243F106EC5582C5D0E12AA539268EBA484E701C6A3A69",
+  "mandatory": false
 }
