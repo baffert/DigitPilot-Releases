@@ -1,0 +1,10 @@
+{
+  "version": "2.1.0",
+  "releaseDate": "2026-10-01",
+  "changelog": "Digit'Pilot v2.1 Finale : Tableau de bord Cyber epure, jauges CPU/GPU/RAM/Watts agrandies a 34pt, mode Faible Latence Windows et Gaming MMCSS integre dans les Parametres, en-tete allege et stabilite renforcee.",
+  "downloadUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
+  "sha256": "C6B0170B9DF1F6FE0A6DA4AFF74ED4FCEBA68FDE33C80B6300B2A15B0FCD15D0",
+  "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot_2.1_Installateur.zip",
+  "installerSha256": "CCBD64119AEA146DDA4B55FE54280ED6111E8DE66A3397A71FBACD63BC3BB341",
+  "mandatory": false
+}
