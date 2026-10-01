@@ -5,7 +5,7 @@
     "changelog":  "Digit\u0027Pilot v0.1.2 (Build 2) : Detection hybride des mises a jour (version, build \u0026 SHA-256), prechargement complet et bilans de sante dynamiques.",
     "downloadUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
     "sha256":  "20924D2D1A71206AEA44A0DBD6E1C60240683292884C0CD711D4DEB5F6E03D51",
-    "installerUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_2.1_Installateur.zip",
-    "installerSha256":  "AFBA2B6A531EA5849AD0E41C9C001A65144878D5C28A7D009EB498FBC2F9D4F4",
+    "installerUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.2_Installateur.zip",
+    "installerSha256":  "D09E965D48123436BEA12E09BB7ECA1A25D771BBD1CBBCD02B16E4C0723EF19A",
     "mandatory":  false
 }
