@@ -1,11 +1,11 @@
-{
-  "version": "0.1.2",
-  "build": 1,
-  "releaseDate": "2026-10-01",
-  "changelog": "Digit'Pilot v0.1.2 (Build 1) : Detection hybride des mises a jour (version, build & SHA-256), prechargement complet et bilans de sante dynamiques.",
-  "downloadUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-  "sha256": "83A64D6C935B43F52B2672D9BA6E1412459ABC15D3836C5E6A17BFF88D16E805",
-  "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_2.1_Installateur.zip",
-  "installerSha256": "C105714C7E453C0FAD2243F106EC5582C5D0E12AA539268EBA484E701C6A3A69",
-  "mandatory": false
+﻿{
+    "version":  "0.1.2",
+    "build":  1,
+    "releaseDate":  "2026-10-01",
+    "changelog":  "Digit\u0027Pilot v0.1.2 (Build 1) : Detection hybride des mises a jour (version, build \u0026 SHA-256), prechargement complet et bilans de sante dynamiques.",
+    "downloadUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
+    "sha256":  "6B95A354D72B8069F12A30B6E1866B67714337E0D27B58E27037FBCB39FAE0DB",
+    "installerUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_2.1_Installateur.zip",
+    "installerSha256":  "344D30830F97C544AE50BCAF60F403282D7AE4A6A0CF2EA2CBE8AAAE0513AA26",
+    "mandatory":  false
 }
