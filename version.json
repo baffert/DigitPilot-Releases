@@ -1,10 +1,10 @@
-﻿{
+{
   "version": "2.1.2",
   "releaseDate": "2026-10-01",
   "changelog": "Digit'Pilot v2.1.2 : Anneaux circulaires Cyber haute precision pour CPU, GPU, RAM et Watts, centrage metrique parfait, correction d'encodage et moteur de mise a jour securise.",
   "downloadUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-  "sha256": "48C19C5FD1A825FE9D8A9038F56905FB8814A446E27004F09CD05DE4776042E0",
-  "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot_2.1_Installateur.zip",
-  "installerSha256": "F06173E39F2DA5A43B3B17CE2D8D4867C508B92019C6FA8DC69FD230B475B37C",
+  "sha256": "CAB5B0009A07D3F17AC9C9E5D1EA528667DBA99B087D0E85AB9A25C70F63C255",
+  "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_2.1_Installateur.zip",
+  "installerSha256": "D1797CDD457E7F923833102FC76213E902992343D1D8835EA91966879E027B5A",
   "mandatory": false
 }
