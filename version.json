@@ -1,11 +1,11 @@
 ﻿{
     "version":  "0.1.2",
     "build":  2,
-    "releaseDate":  "2026-10-01",
+    "releaseDate":  "2026-10-02",
     "changelog":  "Digit\u0027Pilot v0.1.2 (Build 2) : Detection hybride des mises a jour (version, build \u0026 SHA-256), prechargement complet et bilans de sante dynamiques.",
     "downloadUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-    "sha256":  "E2464CDE7BE7354C7965FCFBE5805909782B799AFAA3DD56773E4467A538249F",
+    "sha256":  "5F0D8BABF14433D158BE772ADD33DB20EF89B507CD6350BF8C76D65AA34AF187",
     "installerUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.2_Installateur.zip",
-    "installerSha256":  "ADF9DAA0DACC80CA6D9BDE0CC5CCC37FA393E12F238104BA59B1436CC333699B",
+    "installerSha256":  "21F2370874A00E5EF5C2A8112CD66100723294F0A29E83E3CF181CBFDE327A6C",
     "mandatory":  false
 }
