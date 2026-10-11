@@ -1,11 +1,11 @@
 ﻿{
     "version":  "0.1.2",
-    "build":  5,
+    "build":  6,
     "releaseDate":  "2026-10-11",
-    "changelog":  "Digit\u0027Pilot v0.1.2 (Build 5) : Architecture modulaire ultra-rapide, virtualisation UI 60 FPS intÃ©grale, mise en cache WMI des spÃ©cifications matÃ©rielles et sÃ©curisation automatique du registre avec Point de Restauration Windows.",
+    "changelog":  "Digit\u0027Pilot v0.1.2 (Build 6) : Architecture modulaire ultra-rapide, virtualisation UI 60 FPS intÃ©grale, mise en cache WMI des spÃ©cifications matÃ©rielles et sÃ©curisation automatique du registre avec Point de Restauration Windows.",
     "downloadUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-    "sha256":  "283E46FE098BE20424554AF5EFE530747E0DF0F9A5FC03DA9E8CAEB8723BB5A1",
+    "sha256":  "6AAC78BFA3EF1B5E9602AFFE8E5B600AF29AB6E7866EB732AF81771710C76D5D",
     "installerUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.2_Installateur.zip",
-    "installerSha256":  "1276087C645AF9EC9B948A6E6946BF11C4B61EDAF53C710C2563CE5ABE67A6DC",
+    "installerSha256":  "6E64F860658A3BB315302F549D6CD442B95D8D20BB1D41281DFE8C7D79D7646E",
     "mandatory":  false
 }
