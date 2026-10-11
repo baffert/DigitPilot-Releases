@@ -1,11 +1,11 @@
 ﻿{
     "version":  "0.1.2",
-    "build":  4,
-    "releaseDate":  "2026-10-03",
-    "changelog":  "Digit\u0027Pilot v0.1.2 (Build 4) : Securisation anti-perte de donnees du detecteur de doublons (hachage integral SHA-256), reactivite MVVM, fiabilisation des licences temporaires et optimisation du rendu graphique.",
+    "build":  5,
+    "releaseDate":  "2026-10-11",
+    "changelog":  "Digit\u0027Pilot v0.1.2 (Build 5) : Architecture modulaire ultra-rapide, virtualisation UI 60 FPS intÃ©grale, mise en cache WMI des spÃ©cifications matÃ©rielles et sÃ©curisation automatique du registre avec Point de Restauration Windows.",
     "downloadUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-    "sha256":  "F6DA61B43218C8E991F11178CCDDA1B9B303DE7947E8D673AEEBCE10FA253493",
+    "sha256":  "283E46FE098BE20424554AF5EFE530747E0DF0F9A5FC03DA9E8CAEB8723BB5A1",
     "installerUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.2_Installateur.zip",
-    "installerSha256":  "908F32C3C9A286D396FF447955BB390C3ECAAE082308F03A43AFAA0F4BE1F3C2",
+    "installerSha256":  "1276087C645AF9EC9B948A6E6946BF11C4B61EDAF53C710C2563CE5ABE67A6DC",
     "mandatory":  false
 }
