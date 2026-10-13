@@ -4,8 +4,8 @@
     "releaseDate": "2026-10-13",
     "changelog": "Digit'Pilot v0.1.3 (Build 1) : Assistant interactif de réparation & calibrage batterie (réinitialisation ACPI 1-clic, restauration powercfg et guide pas-à-pas), détection d'effondrement de tension, architecture DPAPI et Rescue Kit.",
     "downloadUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-    "sha256": "68B4F9692F34B02E978658801C5DFF3209DEEEB8C47E84F95158D096BAE45B84",
+    "sha256": "F4A4BF2C8BE470F6C3222EF6A908CAC73971A8C89A8C63AD86EE7EECE5C0C2C2",
     "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.3_Installateur.zip",
-    "installerSha256": "4A5BC775FC3A7ADA85D535A8F38D1DBEF9A4DEC2768F00063AC9DE0F5F4236D4",
+    "installerSha256": "9BAB7A5A9C80C28E93806BC86D25CBBA451CD26AF30BD39F003ACF074F2FFEFA",
     "mandatory": false
 }
