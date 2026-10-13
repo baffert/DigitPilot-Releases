@@ -2,10 +2,10 @@
     "version": "0.1.3",
     "build": 1,
     "releaseDate": "2026-10-13",
-    "changelog": "Digit'Pilot v0.1.3 (Build 1) : Nouvel installateur C# WPF certifie Windows 10/11, architecture securisee DPAPI, garde-fous kernel Zero-Casse, Rescue Kit technicien 1-clic, rapport de sante multi-format et suivi d'espace libere cumule.",
+    "changelog": "Digit'Pilot v0.1.3 (Build 1) : Correctif télémétrie batterie (pleine charge, usure réelle ACPI et rapport Windows détaillé enrichi), architecture sécurisée DPAPI, garde-fous kernel Zéro-Casse, Rescue Kit intégré et suivi d'espace libéré cumulé.",
     "downloadUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-    "sha256": "41E3E1B935C2289CD29844B73CF64BDF2B6102F373147A7C02FE8A3DD37242B8",
+    "sha256": "30698967DA29E9DEA6B40230A97CC93F33BF305B88A894912FEF59057E8F735C",
     "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.3_Installateur.zip",
-    "installerSha256": "58680E12912C9EA0874F6BFCAA370C7C68B655DD5DBDD8A5F296B5F95545B60C",
+    "installerSha256": "FA1F5F6981C012EFFEB22060C3B57609FF9AD97E968953DAAC7376CF261BC9E4",
     "mandatory": false
 }
