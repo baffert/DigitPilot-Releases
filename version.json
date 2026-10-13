@@ -1,11 +1,11 @@
-{
-    "version": "0.1.3",
-    "build": 1,
-    "releaseDate": "2026-10-13",
-    "changelog": "Digit'Pilot v0.1.3 (Build 1) : Rapport technique de batterie 100% infaillible (générateur autonome Digit'Pilot avec analyse de décharge et effondrement de tension), assistant de réparation & calibrage ACPI 1-clic.",
-    "downloadUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-    "sha256": "E09FFC30AA75A54BAFD1B52F3F094B266219814CD01814051B997E32CDFF0D8E",
-    "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.3_Installateur.zip",
-    "installerSha256": "21F37DE686598FEE69A2253CDF9E1F2B913AAFAC240879B6CBFDDB21B2A09258",
-    "mandatory": false
+﻿{
+    "version":  "0.1.3",
+    "build":  1,
+    "releaseDate":  "2026-10-13",
+    "changelog":  "Digit\u0027Pilot v0.1.3 (Build 1) : Diagnostic expert de batterie (dÃ©tection de coupure immÃ©diate et effondrement de tension), architecture sÃ©curisÃ©e DPAPI, garde-fous ZÃ©ro-Casse et rapport Windows enrichi.",
+    "downloadUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
+    "sha256":  "E09FFC30AA75A54BAFD1B52F3F094B266219814CD01814051B997E32CDFF0D8E",
+    "installerUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.3_Installateur.zip",
+    "installerSha256":  "F32C6ACAF9F4FD3D49C987E6ECB1CADB4A2800C1BAE4D53D768FB80058548ECE",
+    "mandatory":  false
 }
