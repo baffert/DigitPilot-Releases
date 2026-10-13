@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "build": 7,
-  "releaseDate": "2026-10-12",
-  "changelog": "Digit'Pilot v0.1.2 (Build 7) : Système de mise à jour haute précision, zéro faux positif (NVIDIA, AMD, FiveM, Steam), nouvelle interface d'attente cyber-glass avec frise 3 étapes et suivi dynamique en temps réel.",
-  "downloadUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-  "sha256": "7EC57C2207DE0AA007E8706365328343D8E06B7FA02AFDE714443292FA3976D1",
-  "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.2_Installateur.zip",
-  "installerSha256": "B97EFBB2A54511D48FC1031AFFB1609493ECB2807748FE6B7CB2FBFF12BE901A",
-  "mandatory": false
+    "version": "0.1.3",
+    "build": 1,
+    "releaseDate": "2026-10-13",
+    "changelog": "Digit'Pilot v0.1.3 (Build 1) : Nouvel installateur C# WPF certifie Windows 10/11, architecture securisee DPAPI, garde-fous kernel Zero-Casse, Rescue Kit technicien 1-clic, rapport de sante multi-format et suivi d'espace libere cumule.",
+    "downloadUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
+    "sha256": "41E3E1B935C2289CD29844B73CF64BDF2B6102F373147A7C02FE8A3DD37242B8",
+    "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.3_Installateur.zip",
+    "installerSha256": "58680E12912C9EA0874F6BFCAA370C7C68B655DD5DBDD8A5F296B5F95545B60C",
+    "mandatory": false
 }
