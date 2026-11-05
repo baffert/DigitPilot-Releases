@@ -1,11 +1,11 @@
 {
   "version": "0.1.3",
-  "build": 1,
+  "build": 2,
   "releaseDate": "2026-11-05",
-  "changelog": "Digit'Pilot v0.1.3 (Build 1) : Nouveau moteur Antivirus Threat Hunter v2 (pont natif Windows AMSI, base locale SQLite SHA-256 & YARA-lite, 15 vecteurs de persistance, corrélation réseau TCP, heuristique PE/entropie/Authenticode et Coffre de Quarantaine chiffré AES-256/DPAPI avec restauration 1-clic & Liste Blanche), garde-fous noyau renforcés (ReparsePoint/jonctions NTFS, seuil batterie 20%), vérification SHA-256 & Authenticode des mises à jour, et télémétrie Multi-GPU isolée.",
+  "changelog": "Digit'Pilot v0.1.3 (Build 2) : Nouveau moteur Antivirus Threat Hunter v2 (pont natif Windows AMSI, base locale SQLite SHA-256 & YARA-lite, 15 vecteurs de persistance, corrélation réseau TCP, heuristique PE/entropie/Authenticode et Coffre de Quarantaine chiffré AES-256/DPAPI avec restauration 1-clic & Liste Blanche), garde-fous noyau renforcés (ReparsePoint/jonctions NTFS, seuil batterie 20%), vérification SHA-256 & Authenticode des mises à jour, et télémétrie Multi-GPU isolée.",
   "downloadUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-  "sha256": "AE57D1DE6315E0F4C72E571CD8FC3C76D69046308E12D3CE02388A57C0CB4954",
+  "sha256": "D8459AA52B19C7347FA7F1E4BEBD0A9B1B8599CAFDDDE6279873D75E24CB1B16",
   "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.3_Installateur.zip",
-  "installerSha256": "871BB191A8BC9610E801BF24FD06651EE19C8CA37DEFC83C97C0AAE6186164BB",
+  "installerSha256": "2EA0BE4CF3A1D77EE34A20B2D4C830C98623B5D07493296CA8794BC9C1A1AC82",
   "mandatory": false
 }
