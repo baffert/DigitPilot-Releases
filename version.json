@@ -1,11 +1,11 @@
-{
-  "version": "0.1.3",
-  "build": 2,
-  "releaseDate": "2026-11-05",
-  "changelog": "Digit'Pilot v0.1.3 (Build 2) : Nouveau moteur Antivirus Threat Hunter v2 (pont natif Windows AMSI, base locale SQLite SHA-256 & YARA-lite, 15 vecteurs de persistance, corrélation réseau TCP, heuristique PE/entropie/Authenticode et Coffre de Quarantaine chiffré AES-256/DPAPI avec restauration 1-clic & Liste Blanche), garde-fous noyau renforcés (ReparsePoint/jonctions NTFS, seuil batterie 20%), vérification SHA-256 & Authenticode des mises à jour, et télémétrie Multi-GPU isolée.",
-  "downloadUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-  "sha256": "63B5BEAA5D5D4A2F76AC85DA3325678E0DADD1BE8C05E0710FFCAD4DE8EB5E3F",
-  "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.3_Installateur.zip",
-  "installerSha256": "DC6E353E939D6C437BFF987EA679CC1936A974B789E3597A74E37BC7DE6D2FDF",
-  "mandatory": false
+﻿{
+    "version":  "0.1.3",
+    "build":  2,
+    "releaseDate":  "2026-11-07",
+    "changelog":  "Digit\u0027Pilot v0.1.3 (Build 2) : Nouveau moteur Antivirus Threat Hunter v2 (pont natif Windows AMSI, base locale SQLite SHA-256 \u0026 YARA-lite, 15 vecteurs de persistance, corrélation réseau TCP, heuristique PE/entropie/Authenticode et Coffre de Quarantaine chiffré AES-256/DPAPI avec restauration 1-clic \u0026 Liste Blanche), garde-fous noyau renforcés (ReparsePoint/jonctions NTFS, seuil batterie 20%), vérification SHA-256 \u0026 Authenticode des mises à jour, et télémétrie Multi-GPU isolée.",
+    "downloadUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
+    "sha256":  "BFDBD7A4335EE1D54634A5B7E9BF2B060B698A3F3E8CB4CFBF04EEFB2A70CFE9",
+    "installerUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.3_Installateur.zip",
+    "installerSha256":  "6F2CB47008EF4953067894E75163AE77FC7A2B16CCFEEA00C670B464E742683C",
+    "mandatory":  false
 }
