@@ -1,11 +1,11 @@
-﻿{
-    "version":  "0.1.3",
-    "build":  2,
-    "releaseDate":  "2026-11-07",
-    "changelog":  "Digit\u0027Pilot v0.1.3 (Build 2) : Nouveau moteur Antivirus Threat Hunter v2 (pont natif Windows AMSI, base locale SQLite SHA-256 \u0026 YARA-lite, 15 vecteurs de persistance, corrélation réseau TCP, heuristique PE/entropie/Authenticode et Coffre de Quarantaine chiffré AES-256/DPAPI avec restauration 1-clic \u0026 Liste Blanche), garde-fous noyau renforcés (ReparsePoint/jonctions NTFS, seuil batterie 20%), vérification SHA-256 \u0026 Authenticode des mises à jour, et télémétrie Multi-GPU isolée.",
-    "downloadUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-    "sha256":  "BFDBD7A4335EE1D54634A5B7E9BF2B060B698A3F3E8CB4CFBF04EEFB2A70CFE9",
-    "installerUrl":  "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.3_Installateur.zip",
-    "installerSha256":  "6F2CB47008EF4953067894E75163AE77FC7A2B16CCFEEA00C670B464E742683C",
-    "mandatory":  false
+{
+    "version": "0.1.3",
+    "build": 3,
+    "releaseDate": "2026-11-08",
+    "changelog": "Digit'Pilot v0.1.3 (Build 3) : Refonte cyber-design complète adaptée dynamiquement aux 7 thèmes (Cyberpunk, Matrix, Ambre Solaire, Néon Crimson, Océan Glacial, Synthwave 80s, Stealth titane). Nouveaux outils réseau 1-clic (Flush DNS, Reset Winsock, Ping DNS en direct, bail DHCP) avec corrélation TCP temps réel des processus et icônes Shell32. Module Mises à jour des applications fiabilisé (filtrage strict Winget, exclusion des paquets incompatibles ARM64). Centre de dépannage express Rescue Kit 3x3 et réparations système renforcées.",
+    "downloadUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
+    "sha256": "0A23B3F6BF7129D153C9C5ED379367A6ACF475FE17601B4D002144780721DE21",
+    "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.3_Installateur.zip",
+    "installerSha256": "22B405E55CA02C84B91DF6124159884A32B83737726DA5CCB7AC2305878F582B",
+    "mandatory": false
 }
