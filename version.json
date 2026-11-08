@@ -4,8 +4,8 @@
     "releaseDate": "2026-11-08",
     "changelog": "Digit'Pilot v0.1.3 (Build 3) : Refonte cyber-design complète adaptée dynamiquement aux 7 thèmes (Cyberpunk, Matrix, Ambre Solaire, Néon Crimson, Océan Glacial, Synthwave 80s, Stealth titane). Nouveaux outils réseau 1-clic (Flush DNS, Reset Winsock, Ping DNS en direct, bail DHCP) avec corrélation TCP temps réel des processus et icônes Shell32. Module Mises à jour des applications fiabilisé (filtrage strict Winget, exclusion des paquets incompatibles ARM64). Centre de dépannage express Rescue Kit 3x3 et réparations système renforcées.",
     "downloadUrl": "https://raw.githubusercontent.com/baffert/DigitPilot-Releases/main/DigitPilot.exe",
-    "sha256": "0A23B3F6BF7129D153C9C5ED379367A6ACF475FE17601B4D002144780721DE21",
+    "sha256": "8FAB69E57EB56F8230FEEA27BD35F629EF121AF3545E903F823AB9899122D37E",
     "installerUrl": "https://raw.githubusercontent.com/baffert/DigitPilot/main/DigitPilot_0.1.3_Installateur.zip",
-    "installerSha256": "22B405E55CA02C84B91DF6124159884A32B83737726DA5CCB7AC2305878F582B",
+    "installerSha256": "B77B8278D099633DAA46FCB93C04A95378FE3D161F29BFAA179B0ED67EFD7E97",
     "mandatory": false
 }
